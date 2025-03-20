@@ -1,1 +1,2 @@
 # Banca-sin-intermediarios-con-neobancos
+La digitalización financiera avanza con los neobancos 3.0, un modelo que elimina barreras y permite operaciones bancarias sin sucursales físicas. Gracias a la integración con blockchain, los usuarios tienen mayor control sobre sus finanzas. La descentralización está cambiando la forma en que manejamos el dinero, reduciendo costos y mejorando la seguridad. ¿Es este el futuro de la banca? Todo indica que sí.
